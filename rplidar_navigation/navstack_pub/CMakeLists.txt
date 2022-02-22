@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.0.2)
 project(navstack_pub)
 
-## Compile as C++11, supported in ROS Kinetic and newer
-# add_compile_options(-std=c++11)
+Compile as C++11, supported in ROS Kinetic and newer
+add_compile_options(-std=c++11)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
@@ -210,3 +210,9 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+
+INCLUDE_DIRECTORIES(/usr/local/lib)
+LINK_DIRECTORIES(/usr/local/lib)
+
+add_executable(send_goals src/send_goals.cpp)
+target_link_libraries(send_goals ${catkin_LIBRARIES})
