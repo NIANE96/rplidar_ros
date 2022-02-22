@@ -3,13 +3,18 @@
 ```
 Connect your RPLIDAR
 
-#Open a terminal and verify permissions
+###Open a terminal and verify permissions
+```
 ls -l /dev | grep ttyUSB
 sudo chmod 666 /dev/ttyUSB0
+```
 
-#Update the list of packages
+###Update the list of packages
+```
 sudo apt-get update
-#Installation of dependencies
+```
+###Installation of dependencies
+```
 sudo apt-get install gedit
 
 ```
