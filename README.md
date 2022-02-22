@@ -41,9 +41,10 @@ _`Project start date 22/10/2021`_
     <li><a href="#feuille-de-route">Feuille de route</a></li>
     <li><a href="#launch-of-the-project">Launch of the project</a>
       <ul>
-        <li><a href="#conditions-préalables">Run the RPLIDAR launch file</a></li>
+        <li><a href="#Run-the-RPLIDAR-launch-file">Run the RPLIDAR launch file</a></li>
         <li><a href="#rviz">rviz</a></li>
       </ul></li>
+    <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a></li>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
@@ -128,8 +129,6 @@ catkin_make
 ```
 
 ### Launch of the project
-```
-#### Run the RPLIDAR launch file
 ```
 roslaunch rplidar_ros rplidar.launch
 ```
