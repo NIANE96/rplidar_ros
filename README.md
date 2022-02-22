@@ -45,6 +45,10 @@ _`Project start date 22/10/2021`_
         <li><a href="#rviz">rviz</a></li>
       </ul></li>
     <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a></li>
+      <ul>
+        <li><a href="#installing-Qt4">Installing Qt4</a></li>
+      </ul>
+Installing Qt4
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
@@ -149,27 +153,40 @@ rostopic echo /scan
 rviz
 ```
 #### Once the rviz window appears
-```
-#### Put
+<p>
+Put 
+<br />
+</p>
 ```
 Fixed Frame = laser
 ```
-#### Click on the bottom left of the window on add and select LaserScan then click on OK
-```
-#### Put
+<p>
+Click on the bottom left of the window on add and select LaserScan then click on OK 
+<br />
+</p>
+
+<p>
+Put 
+<br />
+</p>
 ```
 LaserScan = /scan
 ```
-#### You can increase the size for a better visualization of the data
+<p>
+You can increase the size for a better visualization of the data
+<br />
+</p>
 ```
 size(m) = 0.04
 ```
-#### To close the terminal press CTRL+C
+<p>
+To close the terminal press CTRL+C
+<br />
+</p>
 
 
 ## Creating a map using the Hector-SLAM ROS package
-```
-#### Installing Qt4
+### Installing Qt4
 ```
 sudo apt-get install qt4-qmake qt4-dev-tools
 ```
@@ -190,7 +207,10 @@ cd ~/catkin_ws/
 catkin_make
 ```
 #### If you see an error message of type
-```
+<p align="center">
+Project ‘cv_bridge’ specifies ‘/usr/include/opencv’ as an include dir, which is not found. It does neither exist as an absolute directory nor in....
+<br />
+</p>
 Project ‘cv_bridge’ specifies ‘/usr/include/opencv’ as an include dir, which is not found. It does neither exist as an absolute directory nor in....
 ```
 #### Enter 
