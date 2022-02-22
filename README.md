@@ -1,5 +1,5 @@
 # RPLIDAR_GROUPES
-###Connect your RPLIDAR
+### Connect your RPLIDAR
 
 
 # Project setup : Workspace configuration and installation of RPLIDAR ROS packages
