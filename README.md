@@ -301,6 +301,15 @@ To load the image, go to File -> Open , then locate your image
 <br/>
 </p>
 
+***
+
+### Utilisé dans ce projet
+
+| Langages           | et Applications    | Materiels    |
+| :-------------:     |:--------------:    |:--------------: |
+| ROS, C++, python    | Visual Studio Code | RPI4
+| Git/GitHub          | OS ubuntu           | RPLidar |
+
 ## Customize configuration
 #### See [Configuration Reference]
 ```
