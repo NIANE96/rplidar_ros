@@ -21,6 +21,41 @@ _`Project start date 22/10/2021`_
 <br />
 <p align="center">
 
+<!-- TABLE DES MATIÈRES -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table des matières</h2></summary>
+  <ol>
+    <li>
+      <a href="#a-propos-du-projet">About the project</a>
+      <ul>
+        <li><a href="#construit-avec">Construit avec</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#commencer-à-travailler">Commencer à travailler</a>
+      <ul>
+        <li><a href="#conditions-préalables">Conditions préalables</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#utilisation">Utilisation</a></li>
+    <li><a href="#feuille-de-route">Feuille de route</a></li>
+    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#remerciements">Remerciements</a></li>
+  </ol>
+</details>
+
+<!-- A PROPOS DU PROJET -->
+## A propos du projet
+
+Il existe de nombreux modèles de README sur GitHub, mais je n'en ai pas trouvé un qui réponde vraiment à mes besoins, alors j'ai créé ce modèle amélioré.
+
+Bien sûr, il n'existe pas de modèle unique pour tous les projets, car vos besoins peuvent être différents. Vous pouvez suggérer des changements en créant une demande de modification ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
+
+Une liste de ressources couramment utilisées et que je trouve utiles est listée dans les remerciements.
+
 # RPLIDAR_GROUPS
 #### Connect your RPLIDAR
 #### Open a terminal and verify permissions
@@ -39,7 +74,7 @@ sudo apt-get install gedit
 ```
 
 ## Project setup : Workspace configuration and installation of RPLIDAR ROS packages
-#### Installation of dependencies:
+#### Installation of dependencies
 ```
 sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setuptools libgtest-dev python-rosinstall python-rosinstall-generator python-wstool build-essential git
 ```
@@ -257,9 +292,6 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 ```
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
 
-[![Contributors][contributors-shield]][contributors-url]
-
-[contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
 
 
 
