@@ -332,7 +332,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/static/v1?label="bbbbbb"&message="jjjjjj"&color="red"
 
 
 
