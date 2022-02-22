@@ -37,9 +37,9 @@ _`Project start date 22/10/2021`_
         <li><a href="#conditions-préalables">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#Project_setup">Workspace configuration and installation of RPLIDAR ROS packages</ a></li>
+    <li><a href="#workspace-configuration">Workspace configuration and installation of RPLIDAR ROS packages</ a></li>
     <li><a href="#feuille-de-route">Feuille de route</a></li>
-    <li><a href="#launch">Launch of the project</a>
+    <li><a href="#launch-of">Launch of the project</a>
       <ul>
         <li><a href="#conditions-préalables">Run the RPLIDAR launch file</a></li>
         <li><a href="#rviz">rviz</a></li>
