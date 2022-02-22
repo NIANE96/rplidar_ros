@@ -38,6 +38,12 @@ _`Project start date 22/10/2021`_
         <li><a href="#Run-the-RPLIDAR-launch-file">Run the RPLIDAR launch file</a></li>
         <li><a href="#rviz">rviz</a></li>
       </ul></li>
+
+    <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a>
+      <ul>
+        <li><a href="#Convert-your-map-to-png-format">Convert your map to png format</a></li>
+      </ul></li>
+
     <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a>
       <ul>
         <li><a href="#Convert-your-map-to-png-format"> Convert your map to png format</a></li>
