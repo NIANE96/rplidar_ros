@@ -259,7 +259,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 [![Contributors][contributors-shield]][contributors-url]
 
-[contributors-url]: ABDOULAYE
+[contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
 
 
 
