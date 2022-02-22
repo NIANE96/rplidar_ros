@@ -265,9 +265,9 @@ rosrun map_server map_saver -f my_map_rplidar_ros
 ```
 <h align="center">The map will be saved in the ~/catkin_ws/maps directory in yaml and pgm format.
 <br />
-<h>Type CTRL+C to close the terminal</<h>
+<h>Type CTRL+C to close the terminal</h>
 
-<h align="center">Load the registered map<h>
+<h align="center">Load the registered map</h>
 
 #### Open a new terminal
 ```
