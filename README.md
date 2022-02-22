@@ -140,7 +140,7 @@ rostopic list
 ```
 rostopic echo /scan
 ```
-<p align="center"> Warning! keep the terminal open for the next section <br /> </p>
+<p align="center" color="orange"> Warning! keep the terminal open for the next section <br /> </p>
 
 #### rviz
 #### Open a new terminal and run rviz
