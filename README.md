@@ -11,7 +11,7 @@
 
 **DIOUME ABDOULAYE** 
 
-**HOURI Meryem**
+**HOURI MERYEM**
 
 **AMADOU BOUBACAR**
 
@@ -54,6 +54,11 @@ _`Project start date 22/10/2021`_
         <li><a href="#Using-the-map_server-method-to-register-the-map">Using the map_server method to register the map</a></li>
       </ul>
     <li><a href="#edit-map">Edit Map</a></li>
+    <li><a href="#Configuring-the-ROS-navigation-stack-on-a-robot">Configuring the ROS navigation stack on a robot</a>
+      <ul>
+        <li><a href="#Prerequisites-for-the-navigation">Prerequisites for the navigation</a></li>
+        <li><a href="#Install-the-ROS-Navigation-Stack">Install the ROS Navigation Stack</a></li>
+      </ul></li>
   <li><a href="#Software-and-hardware-used">Software and hardware used</a></li>
     <li><a href="#customize-configuration">Customize configuration</a></li>
   </ol>
@@ -307,6 +312,25 @@ To load the image, go to File -> Open , then locate your image
 <br/>
 </p>
 
+## Configuring the ROS navigation stack on a robot
+### Prerequisites for the navigation
+1. Transform Configuration
+2. LIDAR Information
+3. Odometry Information
+4. Data from wheel encoders
+### Install the ROS Navigation Stack
+```
+sudo apt-get install ros-kinetic-navigation
+```
+#### Open a terminal window, and type
+```
+cd ~/catkin_ws/
+catkin_make --only-pkg-with-deps navstack_pub
+```
+#### Open a new terminal window and launch the launch file
+```
+roslaunch navstack_pub rplidar_navigation.launch
+```
 ***
 
 ### Software and hardware used
