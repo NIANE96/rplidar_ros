@@ -9,7 +9,7 @@
 ## Author
 
 👤**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
-&girl;&nbsp;&nbsp;&nbsp;&nbsp;**DIOUME ABDOULAYE** 
+**DIOUME ABDOULAYE** 
 **HOURY Meryem**
 **AMADOU BOUBACAR**
 **DOUKI THIZIRI**
