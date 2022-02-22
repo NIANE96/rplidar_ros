@@ -1,8 +1,5 @@
 # RPLIDAR_GROUPES
-
-```
-Connect your RPLIDAR
-
+###Connect your RPLIDAR
 ###Open a terminal and verify permissions
 ```
 ls -l /dev | grep ttyUSB
