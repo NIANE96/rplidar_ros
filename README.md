@@ -17,6 +17,10 @@
 
 _`Project start date 22/10/2021`_
 
+<!-- LOGO DU PROJET -->
+<br />
+<p align="center">
+
 # RPLIDAR_GROUPS
 #### Connect your RPLIDAR
 #### Open a terminal and verify permissions
