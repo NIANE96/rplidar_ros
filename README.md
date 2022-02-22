@@ -6,9 +6,16 @@
 
 -->
 
-## Auteur
+## Author
 
 👤**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
+
+***
+# 📎 PGE_MASTER_2_SME_RPLIDAR_GROUPS :  Creating a README file for GitHub
+
+![left 100%](images/rpilidar.jpg?raw=true)
+
+_`Project start date 22/10/2021`_
 
 # RPLIDAR_GROUPS
 #### Connect your RPLIDAR
