@@ -62,7 +62,7 @@ Une liste de ressources couramment utilisées et que je trouve utiles est listé
 
 # RPLIDAR_GROUPS
 ## Connect your RPLIDAR
-#### Prerequisites
+### Prerequisites
 #### Open a terminal and verify permissions
 ```
 ls -l /dev | grep ttyUSB
@@ -128,7 +128,8 @@ cd ~/catkin_ws/
 catkin_make
 ```
 
-### Launch of the project
+## Launch of the project
+### Run the RPLIDAR launch file
 ```
 roslaunch rplidar_ros rplidar.launch
 ```
@@ -140,9 +141,9 @@ rostopic list
 ```
 rostopic echo /scan
 ```
-<p align="center" color="red"> Warning! keep the terminal open for the next section <br /> </p>
+<p align="center" > Warning! keep the terminal open for the next section <br /> </p>
 
-#### rviz
+### rviz
 #### Open a new terminal and run rviz
 ```
 rviz
