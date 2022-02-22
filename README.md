@@ -174,10 +174,11 @@ You can increase the size for a better visualization of the data
 "
 size(m) = 0.04
 "
-<p>
+<p --animation_duration: 0.7>
 To close the terminal press CTRL+C
 <br/>
 </p>
+
 
 
 ## Creating a map using the Hector-SLAM ROS package
@@ -322,7 +323,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 ***
 
-&hearts;&thumbsup;&nbsp;&nbsp;&nbsp;&nbsp;ROBOTS
+&hearts;&nbsp;&nbsp;&nbsp;&nbsp;ROBOTS
 
 <span style="font-family:Papyrus; font-size:4em;">FOR ROBOTICS FANS ESPECIALLY RPLIDAR </span>
 
@@ -331,8 +332,6 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 ![left 10%](images/fin.jpeg?raw=true)
 
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
-
-https://img.shields.io/static/v1?label="bbbbbb"&message="jjjjjj"&color="red"
 
 
 
