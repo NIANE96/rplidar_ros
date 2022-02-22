@@ -16,7 +16,7 @@ sudo apt-get install gedit
 
 ## Project setup : Workspace configuration and installation of RPLIDAR ROS packages
 ```
-### Installation of dependencies:
+#### Installation of dependencies:
 sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setuptools libgtest-dev python-rosinstall python-rosinstall-generator python-wstool build-essential git
 ```
 ### Creation de l'espace de travail Catkin
