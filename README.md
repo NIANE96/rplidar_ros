@@ -9,6 +9,11 @@
 ## Author
 
 👤**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
+&girl;&nbsp;&nbsp;&nbsp;&nbsp;**DIOUME ABDOULAYE** 
+**HOURY Meryem**
+**AMADOU BOUBACAR**
+**DOUKI THIZIRI**
+**CAMARA CHEIKH**
 
 ***
 # 📎 PGE_MASTER_2_SME_RPLIDAR_GROUPS :  Creating a README file for GitHub
@@ -174,7 +179,7 @@ You can increase the size for a better visualization of the data
 "
 size(m) = 0.04
 "
-<p --animation_duration: 0.7>
+<p>
 To close the terminal press CTRL+C
 <br/>
 </p>
