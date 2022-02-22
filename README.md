@@ -322,14 +322,17 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 ***
 
-&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+&hearts;&thumbsup;&nbsp;&nbsp;&nbsp;&nbsp;ROBOTS
 
-<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+<span style="font-family:Papyrus; font-size:4em;">FOR ROBOTICS FANS ESPECIALLY RPLIDAR </span>
 
 <!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
 
-![left 10%, height="300"](images/fin.jpeg?raw=true)
+![left 10%](images/fin.jpeg?raw=true)
+
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
