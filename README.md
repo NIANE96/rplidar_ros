@@ -305,10 +305,11 @@ To load the image, go to File -> Open , then locate your image
 
 ### Utilisé dans ce projet
 
-| Langages           | et Applications    | Materiels    |
+| Langages           | Applications    | Materiels    |
 | :-------------:     |:--------------:    |:--------------: |
 | ROS, C++, python    | Visual Studio Code | RPI4
-| Git/GitHub          | OS ubuntu           | RPLidar |
+| Git/GitHub, Gazebo  | OS ubuntu 14.04 et 18.04  | RPLidar |
+
 
 ## Customize configuration
 #### See [Configuration Reference]
