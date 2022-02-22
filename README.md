@@ -157,31 +157,31 @@ rviz
 Put 
 <br />
 </p>
-""
+"
 Fixed Frame = laser
-""
+"
 <p>
 Click on the bottom left of the window on add and select LaserScan then click on OK 
-<br />
+<br/>
 </p>
 
 <p>
 Put 
-<br />
+<br/>
 </p>
-```
+"
 LaserScan = /scan
-```
+"
 <p>
 You can increase the size for a better visualization of the data
-<br />
+<br/>
 </p>
-```
+"
 size(m) = 0.04
-```
+"
 <p>
 To close the terminal press CTRL+C
-<br />
+<br/>
 </p>
 
 
@@ -206,13 +206,12 @@ cd ~/catkin_ws/
 ```
 catkin_make
 ```
-#### If you see an error message of type
-<p align="center">
+<h align="center">If you see an error message of type</h>
+<p>
 Project ‘cv_bridge’ specifies ‘/usr/include/opencv’ as an include dir, which is not found. It does neither exist as an absolute directory nor in....
-<br />
+<br/>
 </p>
-Project ‘cv_bridge’ specifies ‘/usr/include/opencv’ as an include dir, which is not found. It does neither exist as an absolute directory nor in....
-```
+
 #### Enter 
 ```
 cd /usr/include
