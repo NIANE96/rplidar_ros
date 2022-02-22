@@ -317,6 +317,18 @@ To load the image, go to File -> Open , then locate your image
 ```
 https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-based-slam/
 ```
+
+#### Merci à tous
+
+***
+
+&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+
+<a href="url"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mybotshop.de%2FRPLIDAR-A1M8-360-Range-12m&psig=AOvVaw0mMXL-9vU9lQK4Un-RUqP0&ust=1645612877458000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDS6umPk_YCFQAAAAAdAAAAABA3" height="300"></a>
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
 
 
