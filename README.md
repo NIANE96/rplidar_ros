@@ -25,12 +25,7 @@ _`Project start date 22/10/2021`_
 <details open="open">
   <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
-    <li>
-      <a href="#a-propos-du-projet">About the project</a>
-      <ul>
-        <li><a href="#construit-avec">Construit avec</a></li>
-      </ul>
-    </li>
+    <li><a href="#a-propos-du-projet">About the project</a></li>
     <li>
       <a href="#connect-your-rplidar">Connect your RPLIDAR</a>
       <ul>
@@ -285,10 +280,8 @@ rviz
 </p>
 
 <h>You should see your map on rviz</h>
-```
 
-## Convert your map to png format
-```
+<h>Convert your map to png format</h>
 #### Install the package
 ```
 sudo apt-get install imagemagick
@@ -296,7 +289,6 @@ convert my_map_rplidar_ros.pgm my_map_rplidar_ros.png
 ```
 
 ## Edit map
-```
 #### Install gimp
 ```
 sudo apt-get update
