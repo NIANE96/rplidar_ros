@@ -41,12 +41,12 @@ _`Project start date 22/10/2021`_
 
     <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a>
       <ul>
-        <li><a href="#Convert-your-map-to-png-format">Convert your map to png format</a></li>
-      </ul></li>
+        <li><a href="#Convert-your-map-to-png-format"> Convert your map to png format</a></li>
+      </ul>
     <li><a href="#Save-the-Map">Save the Map</a></li>
-    <ul>
+    <ul></li>
         <li><a href="#Using-the-map_server-method-to-register-the-map">Using the map_server method to register the map</a></li>
-      </ul></li>
+      </ul>
     <li><a href="#edit-map">Edit Map</a></li>
     <li><a href="#customize-configuration">Customize configuration</a></li>
   </ol>
