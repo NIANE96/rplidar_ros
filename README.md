@@ -32,16 +32,21 @@ _`Project start date 22/10/2021`_
       </ul>
     </li>
     <li>
-      <a href="#commencer-à-travailler">Commencer à travailler</a>
+      <a href="#commencer-à-travailler">Connect your RPLIDAR</a>
       <ul>
-        <li><a href="#conditions-préalables">Conditions préalables</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#conditions-préalables">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#utilisation">Utilisation</a></li>
+    <li><a href="#utilisation">Project setup : Workspace configuration and installation of RPLIDAR ROS packages</a></li>
     <li><a href="#feuille-de-route">Feuille de route</a></li>
+    <li><a href="#license">Launch of the project</a>
+      <ul>
+        <li><a href="#conditions-préalables">Run the RPLIDAR launch file</a></li>
+        <li><a href="#rviz">rviz</a></li>
+      </ul></li>
+    <li><a href="#license">Launch of the project</a></li>
     <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license">Launch of the project</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
   </ol>
@@ -57,7 +62,8 @@ Bien sûr, il n'existe pas de modèle unique pour tous les projets, car vos beso
 Une liste de ressources couramment utilisées et que je trouve utiles est listée dans les remerciements.
 
 # RPLIDAR_GROUPS
-#### Connect your RPLIDAR
+## Connect your RPLIDAR
+#### Prerequisites
 #### Open a terminal and verify permissions
 ```
 ls -l /dev | grep ttyUSB
@@ -139,6 +145,7 @@ rostopic echo /scan
 ```
 #### Warning! keep the terminal open for the next section
 ```
+#### rviz
 #### Open a new terminal and run rviz
 ```
 rviz
