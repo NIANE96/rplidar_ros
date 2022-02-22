@@ -328,7 +328,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 <!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
 
-<a href="url"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mybotshop.de%2FRPLIDAR-A1M8-360-Range-12m&psig=AOvVaw0mMXL-9vU9lQK4Un-RUqP0&ust=1645612877458000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDS6umPk_YCFQAAAAAdAAAAABA3" height="300"></a>
+<a href="url"><img src="https://www.mybotshop.de/media/image/product/105/md/rplidar-a1m8-360-range-12m.jpg height="300"></a>
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
 
 
