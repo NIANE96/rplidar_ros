@@ -38,12 +38,10 @@ _`Project start date 22/10/2021`_
         <li><a href="#Run-the-RPLIDAR-launch-file">Run the RPLIDAR launch file</a></li>
         <li><a href="#rviz">rviz</a></li>
       </ul></li>
-    <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a>
-      <ul>
-        <li><a href="#Convert-your-map-to-png-format"> Convert your map to png format</a></li>
-      </ul></li>
+    <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a></li>
     <li><a href="#Save-the-Map">Save the Map</a>
     <ul>
+        <li><a href="#Convert-your-map-to-png-format"> Convert your map to png format</a></li>
         <li><a href="#Using-the-map_server-method-to-register-the-map">Using the map_server method to register the map</a></li>
       </ul>
     <li><a href="#edit-map">Edit Map</a></li>
@@ -281,7 +279,7 @@ rviz
 
 <h>You should see your map on rviz</h>
 
-<h>Convert your map to png format</h>
+### Convert your map to png format
 #### Install the package
 ```
 sudo apt-get install imagemagick
