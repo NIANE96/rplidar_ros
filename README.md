@@ -1,6 +1,6 @@
 # RPLIDAR_GROUPES
 ### Connect your RPLIDAR
-###Open a terminal and verify permissions
+### Open a terminal and verify permissions
 ```
 ls -l /dev | grep ttyUSB
 sudo chmod 666 /dev/ttyUSB0
@@ -13,7 +13,7 @@ sudo apt-get update
 ### Installation of dependencies
 ```
 sudo apt-get install gedit
-
+```
 
 # Project setup : Workspace configuration and installation of RPLIDAR ROS packages
 ## Installation of dependencies:
