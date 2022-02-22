@@ -29,7 +29,7 @@ _`Project start date 22/10/2021`_
     <li>
       <a href="#connect-your-rplidar">Connect your RPLIDAR</a>
       <ul>
-        <li><a href="#conditions-préalables">Prerequisites</a></li>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#Workspace-configuration-and-installation-of-RPLIDAR-ROS-packages">Workspace configuration and installation of RPLIDAR ROS packages</ a></li>
@@ -40,7 +40,7 @@ _`Project start date 22/10/2021`_
       </ul></li>
     <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a></li>
     <ul>
-      <li><a href="# Convert-your-map-to-png-format"> Convert your map to png format</a></li>
+      <li><a href="#Convert-your-map-to-png-format"> Convert your map to png format</a></li>
     </ul>
     <li><a href="#Save-the-Map">Save the Map</a></li>
     <ul>
