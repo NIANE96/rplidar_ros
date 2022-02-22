@@ -6,14 +6,18 @@
 
 -->
 
-## Author
+## Authors 👤
 
-👤**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
+**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
 
 **DIOUME ABDOULAYE** 
+
 **HOURY Meryem**
+
 **AMADOU BOUBACAR**
+
 **DOUKI THIZIRI**
+
 **CAMARA CHEIKH**
 
 ***
