@@ -53,9 +53,6 @@ _`Project start date 22/10/2021`_
       </ul>
     <li><a href="#edit-map">Edit Map</a></li>
     <li><a href="#customize-configuration">Customize configuration</a></li>
-    <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#remerciements">Remerciements</a></li>
   </ol>
 </details>
 
