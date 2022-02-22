@@ -315,7 +315,7 @@ To load the image, go to File -> Open , then locate your image
 | Langages           | Applications    | Materiels    |
 | :-------------:     |:--------------:    |:--------------: |
 | ROS, C++, python    | Visual Studio Code | RPI4
-| Git/GitHub, Gazebo  | OS ubuntu 14.04 et 18.04  | RPLidar |
+| Git/GitHub, Gazebo  | OS ubuntu 14.04 et 18.04  | RPLidar et les materiels de la salle H0 de UPS |
 
 
 ## Customize configuration
@@ -336,7 +336,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 ![left 10%](images/fin.jpeg?raw=true)
 
-# PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
+# PGE_MASTER_2_SME_UPS_2022_RPLIDAR_GROUPS for the company OpenIndus
 
 
 
