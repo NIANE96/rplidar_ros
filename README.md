@@ -328,7 +328,7 @@ https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-base
 
 <!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
 
-![left 10%](images/fin.jpeg?raw=true)
+![left 10%, height="300"](images/fin.jpeg?raw=true)
 # PGE_MASTER_2_SME_2022_RPLIDAR_GROUPS
 
 
