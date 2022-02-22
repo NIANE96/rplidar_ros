@@ -32,12 +32,12 @@ _`Project start date 22/10/2021`_
       </ul>
     </li>
     <li>
-      <a href="#commencer-à-travailler">Connect your RPLIDAR</a>
+      <a href="#connect-your-rplidar">Connect your RPLIDAR</a>
       <ul>
         <li><a href="#conditions-préalables">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#Project_setup">Workspace configuration and installation of RPLIDAR ROS packages</a></li>
+    <li><a href="#Project_setup">Workspace configuration and installation of RPLIDAR ROS packages</ a></li>
     <li><a href="#feuille-de-route">Feuille de route</a></li>
     <li><a href="#launch">Launch of the project</a>
       <ul>
