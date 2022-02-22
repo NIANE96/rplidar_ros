@@ -14,24 +14,26 @@ sudo apt-get install gedit
 
 ```
 
-## Project setup : Workspace configuration and installation of RPLIDAR ROS packages
+# Project setup : Workspace configuration and installation of RPLIDAR ROS packages
 ```
-#### Installation of dependencies:
+## Installation of dependencies:
 sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setuptools libgtest-dev python-rosinstall python-rosinstall-generator python-wstool build-essential git
 ```
-### Creation de l'espace de travail Catkin
+## Creation de l'espace de travail Catkin
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
 ```
-### Modify the file .bashrc
+## Modify the file .bashrc
 gedit ~/.bashrc
 ```
-### Put these two lines at the end of the .bashrc file
+## Put these two lines at the end of the .bashrc file
 source /opt/ros/melodic/setup.bash
+```
 source ~/catkin_ws/devel/setup.bash
 ```
 ### Save the file.
-### Type this command on the current terminal
+```
+## Type this command on the current terminal
 source ~/catkin_ws/devel/setup.bash
 ```
 ### Go to the src folder: 
