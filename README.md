@@ -38,7 +38,6 @@ _`Project start date 22/10/2021`_
       </ul>
     </li>
     <li><a href="#Workspace-configuration-and-installation-of-RPLIDAR-ROS-packages">Workspace configuration and installation of RPLIDAR ROS packages</ a></li>
-    <li><a href="#feuille-de-route">Feuille de route</a></li>
     <li><a href="#launch-of-the-project">Launch of the project</a>
       <ul>
         <li><a href="#Run-the-RPLIDAR-launch-file">Run the RPLIDAR launch file</a></li>
@@ -46,10 +45,16 @@ _`Project start date 22/10/2021`_
       </ul></li>
     <li><a href="#Creating-a-map-using-the-Hector-SLAM-ROS-package">Creating a map using the Hector-SLAM ROS package</a></li>
       <ul>
-        <li><a href="#installing-Qt4">Installing Qt4</a></li>
+        <li><a href="# Convert-your-map-to-png-format"> Convert your map to png format</a></li>
       </ul>
-Installing Qt4
-    <li><a href="#contribution">Contribution</a></li>
+<li><a href="#contribution">Contribution</a></li>
+  <li><a href="#Save-the-Map">Save the Map</a></li>
+      <ul>
+        <li><a href="#Using-the-map_server-method-to-register-the-map">Using the map_server method to register the map</a></li>
+      </ul>
+<li><a href="#edit-map">Edit Map</a></li>
+ <li><a href="#customize-configuration">Customize configuration</a></li>
+
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
   </ol>
@@ -186,7 +191,7 @@ To close the terminal press CTRL+C
 
 
 ## Creating a map using the Hector-SLAM ROS package
-### Installing Qt4
+#### Installing Qt4
 ```
 sudo apt-get install qt4-qmake qt4-dev-tools
 ```
@@ -227,26 +232,23 @@ catkin_make
 sudo shutdown -h now
 ```
 
-### Launch of the mapping
-```
+#### Launch of the mapping
 #### Open a new terminal and start RPLIDAR
 ```
 cd ~/catkin_ws/
 sudo chmod 666 /dev/ttyUSB0
 roslaunch rplidar_ros rplidar.launch
 ```
-#### Now that the LIDAR is running, let's start the mapping
-```
+<h align="center">Now that the LIDAR is running, let's start the mapping</h>
+
 #### Open a new terminal
 ```
 roslaunch hector_slam_launch tutorial.launch
 ```
-#### You can move the LIDAR very slowly around the room to get a good map
+<h align="center">You can move the LIDAR very slowly around the room to get a good map</h>
 
-#### Save the Map
-```
+## Save the Map
 ### Using the map_server method to register the map
-```
 #### Installing map_server
 ```
 sudo apt-get install ros-kinetic-map-server
@@ -255,20 +257,18 @@ sudo apt-get install ros-kinetic-map-server
 ```
 mkdir ~/catkin_ws/maps
 ```
-#### Start the mapping process (see the section Starting the mapping above)
-```
+<h align="center">Start the mapping process (see the section Starting the mapping above)</h>
 #### Open a new terminal
 ```
 cd ~/catkin_ws/maps
 rosrun map_server map_saver -f my_map_rplidar_ros
 ```
-#### The map will be saved in the ~/catkin_ws/maps directory in yaml and pgm format
-```
-#### Type CTRL+C to close the terminal
-```
+<h align="center">The map will be saved in the ~/catkin_ws/maps directory in yaml and pgm format.
+<br />
+Type CTRL+C to close the terminal</<h>
 
-### Load the registered map
-```
+<h align="center">Load the registered map<h>
+
 #### Open a new terminal
 ```
 cd ~/catkin_ws/maps
@@ -282,14 +282,16 @@ rosrun map_server map_server my_map_rplidar_ros.yaml
 ```
 rviz
 ```
-#### Press the add button at the bottom left and add Map
-```
-#### Set Topic = /map
-```
-#### You should see your map on rviz
+<h align="center"> Press the add button at the bottom left and add Map</h>
+<p>
+"Set Topic = /map"
+<br/>
+</p>
+
+<h>You should see your map on rviz</h>
 ```
 
-### Convert your map to png format
+## Convert your map to png format
 ```
 #### Install the package
 ```
@@ -297,7 +299,7 @@ sudo apt-get install imagemagick
 convert my_map_rplidar_ros.pgm my_map_rplidar_ros.png
 ```
 
-### Edit map
+## Edit map
 ```
 #### Install gimp
 ```
@@ -305,11 +307,15 @@ sudo apt-get update
 sudo apt-get install gimp
 ```
 #### Launch gimp
+```
 gimp
 ```
-#### To load the image, go to File -> Open , then locate your image
-```
-### Customize configuration
+<p>
+To load the image, go to File -> Open , then locate your image
+<br/>
+</p>
+
+## Customize configuration
 #### See [Configuration Reference]
 ```
 https://automaticaddison.com/how-to-build-an-indoor-map-using-ros-and-lidar-based-slam/
