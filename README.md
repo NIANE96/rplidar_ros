@@ -1,3 +1,15 @@
+<!--
+*** Merci d'avoir consulté le modèle Best-README. Si vous avez une suggestion
+*** pour amelioré notre projet portant sur un robot mobile
+*** cett partie vous parle de la cartagraphie, navigation et detsction des obstacles avec le RPLIDAR et ROS sous RPI4.
+*** LE GROUPS LIDAR VOUS REMERCIE! :D
+
+-->
+
+## Auteur
+
+👤**NIANE ABDOULAYE** [🇫🇷 Contactez moi](<ablayeniane658@gmail.com>)
+
 # RPLIDAR_GROUPS
 #### Connect your RPLIDAR
 #### Open a terminal and verify permissions
