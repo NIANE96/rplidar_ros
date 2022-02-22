@@ -46,7 +46,7 @@ _`Project start date 22/10/2021`_
     <li><a href="#Save-the-Map">Save the Map</a></li>
     <ul>
         <li><a href="#Using-the-map_server-method-to-register-the-map">Using the map_server method to register the map</a></li>
-      </ul>
+      </ul></li>
     <li><a href="#edit-map">Edit Map</a></li>
     <li><a href="#customize-configuration">Customize configuration</a></li>
   </ol>
