@@ -21,7 +21,7 @@
 **CAMARA CHEIKH**
 
 ***
-# 📎 PGE_MASTER_2_SME_RPLIDAR_GROUPS :  Creating a README file for GitHub
+# 📎 PGE_MASTER_2_SME_UPS_RPLIDAR_GROUPS :  Creating a README file for GitHub
 
 ![left 100%](images/rpilidar.jpg?raw=true)
 
@@ -63,13 +63,8 @@ _`Project start date 22/10/2021`_
 <!-- A PROPOS DU PROJET -->
 ## A propos du projet
 
-Il existe de nombreux modèles de README sur GitHub, mais je n'en ai pas trouvé un qui réponde vraiment à mes besoins, alors j'ai créé ce modèle amélioré.
+//////////
 
-Bien sûr, il n'existe pas de modèle unique pour tous les projets, car vos besoins peuvent être différents. Vous pouvez suggérer des changements en créant une demande de modification ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
-
-Une liste de ressources couramment utilisées et que je trouve utiles est listée dans les remerciements.
-
-# RPLIDAR_GROUPS
 ## Connect your RPLIDAR
 ### Prerequisites
 #### Open a terminal and verify permissions
