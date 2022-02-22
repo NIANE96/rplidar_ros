@@ -37,16 +37,14 @@ _`Project start date 22/10/2021`_
         <li><a href="#conditions-préalables">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#Project_setup">Project setup : Workspace configuration and installation of RPLIDAR ROS packages</a></li>
+    <li><a href="#Project_setup">Workspace configuration and installation of RPLIDAR ROS packages</a></li>
     <li><a href="#feuille-de-route">Feuille de route</a></li>
-    <li><a href="#license">Launch of the project</a>
+    <li><a href="#launch">Launch of the project</a>
       <ul>
         <li><a href="#conditions-préalables">Run the RPLIDAR launch file</a></li>
         <li><a href="#rviz">rviz</a></li>
       </ul></li>
-    <li><a href="#license">Launch of the project</a></li>
     <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#license">Launch of the project</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
   </ol>
@@ -79,7 +77,7 @@ sudo apt-get update
 sudo apt-get install gedit
 ```
 
-## Project setup : Workspace configuration and installation of RPLIDAR ROS packages
+## Workspace configuration and installation of RPLIDAR ROS packages
 #### Installation of dependencies
 ```
 sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setuptools libgtest-dev python-rosinstall python-rosinstall-generator python-wstool build-essential git
