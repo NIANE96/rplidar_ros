@@ -33,7 +33,7 @@ gedit ~/.bashrc
 source /opt/ros/melodic/setup.bash
 source ~/catkin_ws/devel/setup.bash
 ```
-## Save the file.
+### Save the file.
 
 ## Type this command on the current terminal
 ```
