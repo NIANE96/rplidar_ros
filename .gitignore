@@ -1,1 +1,5 @@
-*.md
+*
+!.gitignore
+!*.md
+!*/
+
